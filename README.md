@@ -1,2 +1,3 @@
 # CourseWork
-Repository of all the course materials, assignments and code.
+Repository of all the Course materials, assignments and code.
+This repo contains all the relevant projects as well.
